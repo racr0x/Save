@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+    </head>
+	 
+<body>
+
 ################################################################
 ##          SSSSSS        A    VV         VV EEEEEEEE         ## 
 ##         SS            AAA    VV       VV  EE               ##
@@ -8,14 +16,6 @@
 ##         SSSSSA   AA         AA    V       EEEEEEEE         ##
 ################################################################
 
-
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-    </head>
-	 
-<body>
  <pre><code class="language-mermaid">graph LR
 A--&gt;B
 </code></pre>
